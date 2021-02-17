@@ -9,7 +9,7 @@ and 3.5 audio jack
 ArduinoAPlayer:
 Easy to build arduino WAV file player with many functions:
 press next to move on another song or hold it for increase volume
-same thing with back just in other way
+same thing with back just in other way,
 maybe i'll try add hold pause for random song
 
 ArduinoAPlayerFormatter:

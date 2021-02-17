@@ -20,7 +20,7 @@ static const unsigned LAST_TRACK_ID = 75; // Changet this number according to nu
 static const uint8_t VOLUME_MAX = 5;      // I would recommend to not touch this setting this is for setting maximum volume and level 6-7 does not sound good (max:7 default:5)
 static const int LONG_THRESHOLD = 1000;   // Number of milliseconds until a long press is detected
 static const int REPEAT_DELAY = 350;      // Number of milliseconds to wait before automatic volume change
-static const int DONE_DELAY = 500;        // Removes annoying sound when automatically changing to next track
+static const int DONE_DELAY = 500;        // Should remove annoying sound when automatically changing to next track
 
 typedef enum {
   IDLE,

@@ -16,4 +16,4 @@ ArduinoAPlayerFormatter:
 Simple tool to convert mp3 to arduino supported WAV
 
 Warning:if u use my gerbers for pcb the card reader MUST! be from bottom or upside down
-see picture "myBuild"
+see picture "myBuild" and also i has to be tilted little bit

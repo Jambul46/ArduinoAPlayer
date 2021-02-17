@@ -13,14 +13,14 @@
 #include <SD.h>
 
 static const uint8_t PAUSE_PIN = 5;
-static const uint8_t NEXT_PIN = 6;  //change those numbers acording to pins u want to use to control volume,pause,next,back
-static const uint8_t PREV_PIN = 7;                   //hold next for volume up and back for volume down
+static const uint8_t NEXT_PIN = 6;  //change those numbers acording to pins u want to use to control volume,pause,next,back.
+static const uint8_t PREV_PIN = 7;                   //hold next for volume up and back for volume down.
 
 static const unsigned LAST_TRACK_ID = 75; // Changet this number according to number of your songs. Every song must be named "s1.wav,s2.wav,s3.wav etc..."
-static const uint8_t VOLUME_MAX = 5;      // I would recommend to not touch this setting this is for setting maximum volume and level 6-7 does not sound good (max:7 default:5)
-static const int LONG_THRESHOLD = 1000;   // Number of milliseconds until a long press is detected
-static const int REPEAT_DELAY = 350;      // Number of milliseconds to wait before automatic volume change
-static const int DONE_DELAY = 500;        // Should remove annoying sound when automatically changing to next track
+static const uint8_t VOLUME_MAX = 5;      // I would recommend to not touch this setting this is for setting maximum volume and level 6-7 does not sound good (max:7 default:5).
+static const int LONG_THRESHOLD = 1000;   // Number of milliseconds until a long press is detected.
+static const int REPEAT_DELAY = 350;      // Number of milliseconds to wait before automatic volume change.
+static const int DONE_DELAY = 500;        // Should remove annoying sound when automatically changing to next track.
 
 typedef enum {
   IDLE,

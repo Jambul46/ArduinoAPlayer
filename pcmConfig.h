@@ -65,7 +65,7 @@ Blog: https://tmrh20.blogspot.com/
 
    /* The library uses two different ramping methods to prevent popping sounds
       when PWM is enabled or disabled. This option is autodetected unless defined here*/
-#define rampMega
+//#define rampMega
 
    /* Initial implementation for recording of WAV files to SD card via a microphone or input connected to an analog pin
    SdFat library is recommended

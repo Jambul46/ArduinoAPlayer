@@ -7,7 +7,7 @@ ISP SD Card adapter,
 3 buttons
 and 3.5 audio jack or/and speaker.
 
-for connections use SchematicMK2.
+for connections see SchematicMK2.
 
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 

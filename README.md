@@ -1,5 +1,6 @@
 # ArduinoAPlayer
 !Only codeMK5 is supported by minimal build!
+
 Parts needed for minimal build:
 arduino with atmega328p (i use nano),
 sd card reader adapter,

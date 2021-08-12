@@ -15,5 +15,5 @@ maybe i'll try add hold pause for random song
 ArduinoAPlayerFormatter:
 Simple tool to convert mp3 to arduino supported WAV
 
-Warning:if u use my gerbers for pcb the card reader MUST! be from bottom or upside down
+Warning:if u use my MK2 gerbers for pcb the card reader MUST! be from bottom or upside down
 see picture "myBuild" and also it has to be tilted little bit

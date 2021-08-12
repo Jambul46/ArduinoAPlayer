@@ -1,10 +1,10 @@
+//Arduino Audio Player
 //idea by Jambul46<hsd and code by DarthTux.
-//easy to build WAV audio file player for nano328p etc... with atmega328p.
-//this player should be able to play infinite amount of songs until it fits on your sd card.
+//this player should be able to play 65535 song's from one SD.
 //all libraries should be available in library manager.
 //Main format: WAV, 8-bit, 16/24/32khz Sample Rate, mono, PCM unsigned 8-bit.
-//https://audio.online-convert.com/convert-to-wav
-//GERBERS for pcb: https://www.dropbox.com/s/l31omz06y4ecplu/ArduinoAPlayer.zip?dl=1
+//official page: https://github.com/Jambul46/ArduinoAPlayer
+//This code was made for MK3 board. will work with MK2 but there has to be jumper from GND to D4 (if you use PCBGerberMK2 then there is predone jumper on the PCB)
 
 #include <ezButton.h>
 #include <TMRpcm.h>

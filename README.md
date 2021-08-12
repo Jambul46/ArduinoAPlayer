@@ -6,6 +6,7 @@ arduino with atmega328p (i use nano),
 sd card reader adapter,
 3 buttons
 and 3.5 audio jack or/and speaker
+for connections use SchematicMK2
 
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 

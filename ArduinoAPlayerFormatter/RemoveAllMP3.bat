@@ -1,0 +1,1 @@
+FOR /L %%i IN (1,1,255) DO (del notConverted/song%%i.mp3)

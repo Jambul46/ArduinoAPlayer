@@ -8,6 +8,7 @@ sd card reader adapter,
 and 3.5 audio jack or/and speaker
 
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
 ArduinoAPlayer (codeMK5):
 
 Easy to build arduino WAV file player with many functions:

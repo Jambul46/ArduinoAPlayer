@@ -8,3 +8,5 @@ open it in normal text editor and change 255 to your specific number
 24kHz - work's perfect, audio quality is good. (max vol:5)
 
 32kHz - work's OK, audio quality is perfect. (max vol:4) vol:5 makes annoying sound's - unlistenable 
+
+Note that there wont be 32bit version due to ffmpeg only being 64bit

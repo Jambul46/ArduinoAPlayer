@@ -14,7 +14,7 @@ for connections see SchematicMK2.
 ArduinoAPlayer (codeMK5):
 
 Easy to build arduino WAV file player with many functions:
-press NEXT to move on another song or hold it for increase volume
+press NEXT to move on another song or hold it to increase volume
 same thing with BACK just in other way and PAUSE  .
 
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -22,7 +22,7 @@ same thing with BACK just in other way and PAUSE  .
 ArduinoAPlayer (codeMK6):
 Bigger challenge
 Harder to build arduino WAV file player with many functions:
-press NEXT to move on another song or hold it for increase volume
+press NEXT to move on another song or hold it to increase volume
 same thing with BACK just in other way and press PAUSE to PAUSE :)
 or hold it to unmount the SD Card. Doesn't need to RESET when plugged back in
 the player uses SD-IN/DETECT pin so it will load normally like you would RESET it.
